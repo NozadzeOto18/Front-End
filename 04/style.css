@@ -1,0 +1,28 @@
+.column{
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    height: 100%;
+
+}
+
+
+.in-column{
+    border: solid 0px;
+    border-radius: 10px;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3em;
+    background-color: yellowgreen;
+    margin: 5px;
+    width: 100%;
+}
